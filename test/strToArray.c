@@ -1,4 +1,4 @@
-#include "../holberton.h"
+#include "../main.h"
 
 /**
   *tokenaization - split a sentence into multiple words.
